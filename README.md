@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FloxDog, my pronouns are They/Them and I'm 23 years old!
+- 👋 Hi, I’m Sam but my friends call me Flox, my pronouns are They/Them and I'm 23 years old!
 - 👀 I’m interested in Audio, Reverse engineering hardware, Open source technologies and Linux.
 - 🌱 I’m currently learning ARM64 Assembly and Rust
 - 💞️ I’m looking to collaborate on porting the Linux kernel to mobile devices!
